@@ -1,0 +1,29 @@
+[
+  {
+    "price": 400,
+    "image": "./img/hanged_plant.jpg",
+    "name": "Product Name",
+    "quantity": 4,
+    "brand": "Brand",
+    "description": "Short description of product written here",
+    "color": "black"
+  },
+  {
+    "price": 300,
+    "image": "./img/jon-flobrant-VjdII_v1_6w-unsplash.jpg",
+    "name": "Product Name",
+    "quantity": 4,
+    "brand": "Brand",
+    "description": "Short description of product written here",
+    "color": "black"
+  },
+  {
+    "price": 600,
+    "image": "./img/sarah-dorweiler-ALtNa-uKy3M-unsplash.jpg",
+    "name": "Product Name",
+    "quantity": 4,
+    "brand": "Brand",
+    "description": "Short description of product written here",
+    "color": "black"
+  }
+]
