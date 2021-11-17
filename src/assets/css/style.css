@@ -2,3 +2,17 @@
   width: 130px !important;
   height: 100px !important;
 }
+
+.check-out-btn {
+  transition: all 1s;
+  border-radius: 0px;
+}
+
+.check-out-btn.active {
+  transition: all 1s;
+  border-radius: 40px;
+}
+
+#checkOutText {
+  transition: all 1s;
+}

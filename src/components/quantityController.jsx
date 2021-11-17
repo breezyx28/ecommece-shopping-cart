@@ -18,7 +18,7 @@ const QC = (props) => {
 
     return (
         <div>
-            <div className="flex gap-x-2 items-start">
+            <div className="flex gap-x-2 items-start mt-1">
                 <div className="text-sm text-gray-400 font-semibold">Quantity</div>
                 <div className="flex items-center">
                     <button className="px-2 bg-gray-300" onClick={increase}>+</button>
